@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    color: white;
+    background-color: #0C4A6E;
+}
+
+@font-face{
+    font-family: "CursedTimerUlil-Aznm" ;
+    src: url(CursedTimerUlil-Aznm.ttf);
+}
+
+h3 {
+    align-content: center;
+    padding: 25px;
+}
+
+h2 {
+    background-color: #000000;
+    font-family: "CursedTimerUlil-Aznm";
+    color: red;
+    align-content: center;
+    padding: 50px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
